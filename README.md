@@ -25,7 +25,7 @@ Finally, the chatbot displays the response back to the user in real time.
 
 4.  Day 6 — Machine Learning Intuition
 5.  https://teachablemachine.withgoogle.com/models/XCcnZix0nt/
-   
+   https://teachablemachine.withgoogle.com/models/hNFsdtXj5/
 
 Observations
 
